@@ -1,0 +1,11 @@
+E:\git\commontool\MessageQueue\bin\Debug\netcoreapp2.2\MessageQueue.deps.json
+E:\git\commontool\MessageQueue\bin\Debug\netcoreapp2.2\MessageQueue.runtimeconfig.json
+E:\git\commontool\MessageQueue\bin\Debug\netcoreapp2.2\MessageQueue.runtimeconfig.dev.json
+e:\git\commontool\MessageQueue\bin\Debug\netcoreapp2.2\MessageQueue.dll
+e:\git\commontool\MessageQueue\bin\Debug\netcoreapp2.2\MessageQueue.pdb
+e:\git\commontool\MessageQueue\obj\Debug\netcoreapp2.2\MessageQueue.csprojAssemblyReference.cache
+e:\git\commontool\MessageQueue\obj\Debug\netcoreapp2.2\MessageQueue.csproj.CoreCompileInputs.cache
+e:\git\commontool\MessageQueue\obj\Debug\netcoreapp2.2\MessageQueue.AssemblyInfoInputs.cache
+e:\git\commontool\MessageQueue\obj\Debug\netcoreapp2.2\MessageQueue.AssemblyInfo.cs
+e:\git\commontool\MessageQueue\obj\Debug\netcoreapp2.2\MessageQueue.dll
+e:\git\commontool\MessageQueue\obj\Debug\netcoreapp2.2\MessageQueue.pdb
